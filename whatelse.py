@@ -55,5 +55,5 @@ try:
 			print i.a.text
 except Exception,e:
 
-	print "Ops, Something goes wrong or being limited !"
+	print "Ops, Something goes wrong or being limited !!"
 	
